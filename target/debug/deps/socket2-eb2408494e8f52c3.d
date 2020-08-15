@@ -1,0 +1,11 @@
+/Users/timothelaude/Documents/palindromenew/target/debug/deps/socket2-eb2408494e8f52c3.rmeta: /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/timothelaude/Documents/palindromenew/target/debug/deps/libsocket2-eb2408494e8f52c3.rlib: /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/timothelaude/Documents/palindromenew/target/debug/deps/socket2-eb2408494e8f52c3.d: /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs:

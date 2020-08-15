@@ -1,0 +1,13 @@
+/Users/timothelaude/Documents/palindromenew/target/rls/debug/deps/net2-7b7b16d3ef5eb2c4.rmeta: /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/Users/timothelaude/Documents/palindromenew/target/rls/debug/deps/net2-7b7b16d3ef5eb2c4.d: /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs:
+/Users/timothelaude/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs:
